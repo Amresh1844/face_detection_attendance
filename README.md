@@ -179,5 +179,5 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ## 👤 Author
 
 **Ashirbad Sahoo**
-- GitHub: [@Amresh18443](https://github.com/Amresh1844)
+- GitHub: [@Amresh1844](https://github.com/Amresh1844)
 
