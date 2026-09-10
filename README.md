@@ -179,5 +179,5 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ## 👤 Author
 
 **Ashirbad Sahoo**
-- GitHub: [@ashirbad003](https://github.com/ashirbad003)
-- Portfolio: [ash-tech.lovable.app](https://ash-tech.lovable.app)
+- GitHub: [@ashirbad003](https://github.com/Amresh1844)
+
